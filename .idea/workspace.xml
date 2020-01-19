@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19f1734f-af90-4816-9eb2-c19ca6f7a027" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Calc2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/com/company/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calculator/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/com/company/Panel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/com/company/Panel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/com/company/Start.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Panel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recursion/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../recursion/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recursion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../recursion/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recursion/src/ferz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recursion/src/ferz.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\projects\Calculator\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WZG51fzQgs7jq3ctiPoyS6l0Ck" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.culc3">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Calc2.Main" />
+      <module name="Calculator" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="culc3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calc3.culc3" />
+      <module name="Calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calc3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.culc3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.culc3" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19f1734f-af90-4816-9eb2-c19ca6f7a027" name="Default Changelist" comment="" />
+      <created>1579349516247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579349516247</updated>
+    </task>
+    <task id="LOCAL-00001" summary="hard">
+      <created>1579429087006</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579429087006</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hard culc">
+      <created>1579429189519</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579429189519</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hard" />
+    <MESSAGE value="hard culc" />
+    <option name="LAST_COMMIT_MESSAGE" value="hard culc" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1579426456786">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579426456786" />
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1579430219382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579430219382" />
+    <state x="549" y="155" key="FileChooserDialogImpl" timestamp="1579429004135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579429004135" />
+    <state x="646" y="307" width="258" height="210" key="Github.ShareDialog" timestamp="1579429018442">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="646" y="307" width="258" height="210" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1579429018442" />
+    <state x="610" y="119" key="Github.UntrackedFilesDialog" timestamp="1579429041044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="610" y="119" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1579429041044" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1579430131528">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579430131528" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1579430131528">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579430131528" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1579430131528">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579430131528" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1579430131528">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579430131528" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579430223532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579430223532" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1579425059819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579425059819" />
+  </component>
+</project>
